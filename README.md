@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Noel6161131110
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ✌️Hey there, I'm Noel Paul George
 
-<!---
-Noel6161131110/Noel6161131110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🤖 I’m a AI and Machine Learning enthusiast.
+- 🎮 I’m interested in Unity3D (Game Development and Cinematiccs)
+- 💻 I'm also interested in Backend development of web and mobile applications. 
+- 🤝 I’m looking to collaborate on open source projects
+- 📫 Reach me through  &nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-joseph-9a381021a/)](https://www.linkedin.com/in/noel-paul-george-5708ba205/)
+
+
