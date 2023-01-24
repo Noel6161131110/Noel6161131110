@@ -28,7 +28,7 @@
 
 [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110)  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110)
 
-
+[![Noel's github stats](https://github-readme-stats.vercel.app/api?username=Noel6161131110)](https://github.com/Noel6161131110/github-readme-stats)
 <br><br>
 <p align="center">
  <a href="mailto:noel.paul.george.01052003@gmail.com"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
