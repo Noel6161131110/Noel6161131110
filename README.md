@@ -9,7 +9,8 @@
 
 💫 Check out my [Portfolio website](https://delightful-bay-08b850500.2.azurestaticapps.net/)
 
-<img align="center" alt="Name gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/noel_paul_anim.gif" width="500"/>
+ <img align="center" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/noel_paul_anim.gif" width="500"/>
+
 
 
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
