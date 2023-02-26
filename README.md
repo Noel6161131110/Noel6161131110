@@ -42,7 +42,7 @@
 
 [![Noel's github stats](https://github-readme-stats.vercel.app/api?username=Noel6161131110&layout=compact&theme=github_dark)](https://github.com/Noel6161131110/github-readme-stats)
  
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
 <br><br>
  
 <p align="center">
