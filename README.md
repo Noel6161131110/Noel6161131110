@@ -19,9 +19,9 @@
 
 - 🎯 Machine learning | Deep learning | Computer vision 
 
-- 🎮 I’m interested in Unity3D (Game Development and Cinematics)
+- 🎮 Expertise in Unity3D (Game Development and Cinematics)
 
-- 💻 I'm also interested in Backend development of Web and mobile applications. 
+- 💻 Skills in Backend development of Web and mobile applications. 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Noel6161131110&theme=github-green-purple)
 
