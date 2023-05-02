@@ -56,6 +56,14 @@
 [![Noel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
 <br><br>
 
+<h2 align="center"> 🏆 GitHub Achievements:</h2>
+
+<br/>
+
+<p align="center">
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Noel6161131110&row=1&theme=discord"></a>
+</p>
+
 <h2 align="center">  Connect with me:</h2>
 <br/>
 <div align="center">
@@ -72,3 +80,5 @@
   <a href="https://medium.com/@noelpaulgeorge"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
 </p>
 &nbsp; &nbsp;
+
+
