@@ -9,6 +9,8 @@
 
 💫 Check out my [Portfolio website](https://delightful-bay-08b850500.2.azurestaticapps.net/)
 
+
+
  <img align="center" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/noel_paul_anim.gif" width="500"/>
 
 
@@ -21,7 +23,9 @@
 
 - 🎮 Expertise in Unity3D (Game Development and Cinematics)
 
-- 💻 Skills in Backend development of Web and mobile applications. 
+- 💻 Skills in Backend development of Web and mobile applications.
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Noel6161131110)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Noel6161131110&theme=github-green-purple)
 
@@ -32,19 +36,33 @@
 
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding.gif" width="360"/>
 
-### Languages and Tools :computer:
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110) 
-
-[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110)  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Noel6161131110)](https://github.com/Noel6161131110)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noel6161131110&layout=compact&theme=github_dark)
 
 [![Noel's github stats](https://github-readme-stats.vercel.app/api?username=Noel6161131110&layout=compact&theme=github_dark)](https://github.com/Noel6161131110/github-readme-stats)
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
+
+<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
+<br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vercel,linux,tensorflow,vscode,html,css,unity,java,azure,postman,javascript,c,git,md,github,bash,cpp,discord,linkedin,firebase,nginx,flask,githubactions,visualstudio,mongodb,mysql,netlify,postgres,powershell,cs,latex,&perline=8" />
+  </a>
+</p>
+
+<br />
+
+[![Noel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
 <br><br>
- 
+
+<h2 align="center">  Connect with me:</h2>
+<br/>
+<div align="center">
+<a href="https://app.daily.dev/noel_paul_george"><img src="https://api.daily.dev/devcards/2a35e3297fe9449398fde5b51437bcdd.png?r=uc4" width="400" alt="Noel Paul George's Dev Card"/></a>
+</div>
+<br/>
+
 <p align="center">
  <a href="mailto:noel.paul.george.01052003@gmail.com"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/Noel6161131110"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
