@@ -76,7 +76,7 @@
    <a href="https://github.com/Noel6161131110"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/noel-paul-george-5708ba205"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/NoelGeo62464634"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-    <a href="https://delightful-bay-08b850500.2.azurestaticapps.net"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+    <a href="http://noelpaulgeorge.me/"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
   <a href="https://medium.com/@noelpaulgeorge"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
 </p>
 &nbsp; &nbsp;
