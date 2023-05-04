@@ -1,6 +1,6 @@
 
 
-### Hey 👋, I'm [Noel Paul George](https://github.com/Noel6161131110) 👨‍💻
+# Hey 👋, I'm [Noel Paul George](https://github.com/Noel6161131110) 👨‍💻
 
 
 
