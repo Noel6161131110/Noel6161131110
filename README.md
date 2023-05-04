@@ -11,7 +11,7 @@
 
 
 
- <img align="center" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/noel_paul_anim.gif" width="500"/>
+<!--  <img align="center" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/noel_paul_anim.gif" width="500"/> -->
 
 
 
