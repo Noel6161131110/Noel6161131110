@@ -1,7 +1,7 @@
 
-
-# Hey 👋, I'm [Noel Paul George](https://github.com/Noel6161131110) 👨‍💻
-
+<div align = "cemter">
+  <h1>Hey 👋, I'm [Noel Paul George](https://github.com/Noel6161131110) 👨‍💻</h1>
+</div>
 
 
 :smiley: Student Ambassador of **[Microsoft](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/5ca52ffc-9b1b-4afd-a5ba-d932e6eda8bf)** 
