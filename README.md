@@ -50,10 +50,10 @@
   </a>
 </p>
 
-<br />
 
-[![Noel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
-<br><br>
+
+<!--  [![Noel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
+<br><br> -->
 
 <h2 align="center"> 🏆 GitHub Achievements:</h2>
 
