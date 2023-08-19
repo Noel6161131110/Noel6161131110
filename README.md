@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vercel,linux,tensorflow,vscode,html,css,unity,java,azure,postman,javascript,c,git,md,github,bash,cpp,discord,docker,firebase,nginx,flask,githubactions,visualstudio,mongodb,mysql,netlify,postgres,powershell,cs,latex,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,vercel,linux,tensorflow,vscode,html,css,unity,java,azure,postman,javascript,c,git,md,github,bash,cpp,discord,docker,firebase,nginx,flask,githubactions,visualstudio,django,mongodb,mysql,netlify,redis,postgres,powershell,cs,latex,&perline=7" />
   </a>
 </p>
 
