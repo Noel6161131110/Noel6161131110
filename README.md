@@ -7,7 +7,7 @@
 :smiley: Student Ambassador of **[Microsoft](https://noelpaulgeorge.me/)** 
 
 
-💫 Check out my [Portfolio website](https://delightful-bay-08b850500.2.azurestaticapps.net/)
+💫 Check out my [Portfolio website](https://noelpaulgeorge.me/)
 
 
 
