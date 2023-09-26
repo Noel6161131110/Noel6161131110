@@ -4,7 +4,7 @@
 
 
 
-:smiley: Student Ambassador of **[Microsoft](https://noelpaulgeorge.me/)** 
+:smiley: Student Ambassador of **[Microsoft](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/5ca52ffc-9b1b-4afd-a5ba-d932e6eda8bf)** 
 
 
 💫 Check out my [Portfolio website](https://noelpaulgeorge.me/)
