@@ -54,7 +54,23 @@
 
 <!--  [![Noel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
 <br><br> -->
+<br/>
+    <h2 align="left"> 💻 My workspace:</h2><br/>
+    <p align='center'>
+  <br/>
 
+  <img src="https://img.shields.io/badge/NITRO-83B81A?style=for-the-badge&logo=Acer&logoColor=white"/>
+     
+  <img src="https://img.shields.io/badge/intel-core%20i5%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /><br>
+
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
+</p>
+
+
+<br />
 <h2 align="center"> 🏆 GitHub Achievements:</h2>
 
 <br/>
