@@ -21,9 +21,11 @@
 
 - 🎯 Machine learning | Deep learning | Computer vision 
 
-- 🎮 Expertise in Unity3D (Game Development and Cinematics)
 
-- 💻 Skills in Backend development of Web and mobile applications.
+- 💻 Expertise in Backend development of Web and mobile applications.
+
+- 🎮 Skills in Unity3D (Game Development and Cinematics)
+
 
 <br>
 
