@@ -84,7 +84,7 @@
 <h2 align="center">  Connect with me:</h2>
 <br/>
 <div align="center">
-<a href="https://app.daily.dev/noel_paul_george"><img src="https://api.daily.dev/devcards/2a35e3297fe9449398fde5b51437bcdd.png?r=uc4" width="400" alt="Noel Paul George's Dev Card"/></a>
+<a href="https://app.daily.dev/noel_paul_george"><img src="https://api.daily.dev/devcards/2a35e3297fe9449398fde5b51437bcdd.png?r=fjq" width="400" alt="Noel Paul George's Dev Card"/></a>
 </div>
 <br/>
 
