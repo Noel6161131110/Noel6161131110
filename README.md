@@ -1,7 +1,6 @@
 
-
-# Hey 👋, I'm [Noel Paul George](https://github.com/Noel6161131110) 👨‍💻
-
+<h2 align="center"> Hey 👋, I'm Noel Paul George</h2>
+<br>
 
 
 :smiley: Student Ambassador of **[Microsoft](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/5ca52ffc-9b1b-4afd-a5ba-d932e6eda8bf)** 
@@ -52,10 +51,11 @@
   </a>
 </p>
 
+<h2 align="center"> Check out my Chart 😺:</h2>
+<br />
 
+[![Noel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
 
-<!--  [![Noel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
-<br><br> -->
 <br/>
     <h2 align="left"> 💻 My workspace:</h2><br/>
     <p align='center'>
@@ -69,6 +69,13 @@
 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
+  <br>
+  
+  <img src="https://img.shields.io/badge/Macbook Pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/M3 Pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-18GB-%23000000.svg?&style=for-the-badge&logoColor=white" /><br />
+  <img src="https://img.shields.io/badge/mac%20os%20Sonoma-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+  
 </p>
 
 
