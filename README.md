@@ -28,8 +28,6 @@
 
 <br>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Noel6161131110)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Noel6161131110&theme=github-green-purple)
 
 
