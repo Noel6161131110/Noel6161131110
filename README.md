@@ -3,7 +3,7 @@
 <br>
 
 
-:smiley: Student Ambassador of **[Microsoft](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/5ca52ffc-9b1b-4afd-a5ba-d932e6eda8bf)** 
+:smiley: Student Ambassador of **[Microsoft](https://mvp.microsoft.com/en-US/studentambassadors/profile/5ca52ffc-9b1b-4afd-a5ba-d932e6eda8bf)** 
 
 
 💫 Check out my [Portfolio website](https://noelpaulgeorge.me/)
@@ -75,6 +75,20 @@
   <img src="https://img.shields.io/badge/mac%20os%20Sonoma-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
   
 </p>
+
+<br />
+  <div align = "center">
+        <h2><img width="30" align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;Fingering Stats
+        </h2>
+  </div>
+<br/>
+<p align = "center">
+
+  <img src="https://monkeytype-readme.com/generate-svg/Noel6161131110/cyberspace?pb=true" alt="My Monkeytype profile" />
+  
+</p>
+    
 
 
 <br />
