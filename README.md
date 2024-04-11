@@ -79,7 +79,7 @@
 <br />
   <div align = "center">
         <h2><img width="30" align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;Fingering Stats
+                src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;Typing Stats
         </h2>
   </div>
 <br/>
