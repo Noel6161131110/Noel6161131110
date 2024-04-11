@@ -1,12 +1,26 @@
 
-<h2 align="center"> Hey 👋, I'm Noel Paul George</h2>
+<h1 align="center"> Hey 
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+  </picture>
+  , I'm Noel Paul George
+</h1>
 <br>
 
 
-:smiley: Student Ambassador of **[Microsoft](https://mvp.microsoft.com/en-US/studentambassadors/profile/5ca52ffc-9b1b-4afd-a5ba-d932e6eda8bf)** 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="32" height="32">
+</picture>Student Ambassador of <strong><a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/5ca52ffc-9b1b-4afd-a5ba-d932e6eda8bf">Microsoft</a></strong>.
 
+<br />
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>
+Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
 
-💫 Check out my [Portfolio website](https://noelpaulgeorge.me/)
 
 
 
@@ -77,11 +91,16 @@
 </p>
 
 <br />
-  <div align = "center">
-        <h2><img width="30" align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;Typing Stats
-        </h2>
-  </div>
+
+<h2 align="center">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.gif" alt="🏁" width="32" height="32"> 
+  </picture>
+   Typing Stats
+</h2>
+
+
 <br/>
 <p align = "center">
 
