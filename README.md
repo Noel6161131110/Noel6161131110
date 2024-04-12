@@ -22,12 +22,6 @@
 Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
 
 
-
-
-<!--  <img align="center" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/noel_paul_anim.gif" width="500"/> -->
-
-
-
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
 
 ### About me :eyes:
@@ -104,13 +98,11 @@ Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
 <br/>
 <p align = "center">
 
-  <img src="https://monkeytype-readme.com/generate-svg/Noel6161131110/cyberspace?pb=true" alt="My Monkeytype profile" />
-  
+<img src="https://monkeytype-readme.com/generate-svg/Noel6161131110/cyberspace?pb=true" alt="My Monkeytype profile" width="400" height="400" />
+
 </p>
     
 
-
-<br />
 <h2 align="center"> 🏆 GitHub Achievements:</h2>
 
 <br/>
