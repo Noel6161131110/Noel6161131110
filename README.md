@@ -16,8 +16,8 @@
 
 <br />
 <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="16" height="16">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="16" height="16">
 </picture>
 Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
 
