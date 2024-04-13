@@ -11,21 +11,25 @@
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="16" height="16">
 </picture>Student Ambassador of <strong><a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/5ca52ffc-9b1b-4afd-a5ba-d932e6eda8bf">Microsoft</a></strong>.
 
 <br />
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="16" height="16">
 </picture>
 Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
 
 
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
 
-### About me :eyes:
-
+<p>About me 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="16" height="16">
+</picture>
+  
 - 🎯 Machine learning | Deep learning | Computer vision 
 
 
