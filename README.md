@@ -20,22 +20,37 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="16" height="16">
 </picture>
 Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
-
+<br />
 
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
 
-<p>About me 
+<p align="center" style="font-size:30px;"><b>Technical Synopsis</b>
 <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="16" height="16">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="➕" width="16" height="16">
 </picture>
-  
-- 🎯 Machine learning | Deep learning | Computer vision 
 
+<p>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="16" height="16">
+</picture> <b>Mastering Backend Alchemy</b>: Crafting resilient web and mobile applications with the precision of Django and Go, seamlessly merging technology and user experience into digital symphonies.
+</p>
 
-- 💻 Expertise in Backend development of Web and mobile applications.
+<p>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="16" height="16">
+</picture> <b>Architect of Intelligent Systems</b>: Pioneering the frontier of Machine Learning, specializing in NLP and Computer Vision, sculpting data into insights that propel innovation and understanding.
+</p>
 
-- 🎮 Skills in Unity3D (Game Development and Cinematics)
+<p>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="16" height="16">
+</picture> <b>Weaving Digital Landscapes</b>: Expertly navigating the complexities of web development, transforming intricate code into elegant solutions that define the digital landscape of tomorrow.
+
+</p>
 
 
 <br>
@@ -52,22 +67,28 @@ Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
 
 [![Noel's github stats](https://github-readme-stats.vercel.app/api?username=Noel6161131110&layout=compact&theme=github_dark)](https://github.com/Noel6161131110/github-readme-stats)
 
-<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
+<h2 align="center">Languages and Tools Inventory</h2>
 <br />
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vercel,linux,tensorflow,vscode,html,css,unity,java,azure,postman,javascript,c,git,md,github,bash,cpp,discord,docker,firebase,nginx,flask,githubactions,visualstudio,django,mongodb,mysql,netlify,redis,postgres,powershell,cs,latex,aws,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,vercel,linux,go,tensorflow,vscode,html,css,unity,java,azure,postman,javascript,c,git,md,github,bash,cpp,discord,docker,firebase,nginx,flask,githubactions,visualstudio,django,mongodb,mysql,netlify,redis,postgres,powershell,cs,latex,aws,&perline=18" />
   </a>
 </p>
 
-<h2 align="center"> Check out my Chart 😺:</h2>
+<h2 align="center"> My Contribution Stats <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f638/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f638/512.gif" alt="😸" width="20" height="20">
+</picture></h2>
 <br />
 
 [![Noel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
 
 <br/>
-    <h2 align="center"> 💻 My workspace:</h2><br/>
+    <h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20">
+</picture> My workspace</h2><br/>
     <p align='center'>
   <br/>
 
@@ -90,37 +111,39 @@ Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
 
 <br />
 
-<h2 align="center">
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.gif" alt="🏁" width="32" height="32"> 
-  </picture>
-   Typing Stats
-</h2>
+<div style="display: flex; justify-content: center;">
+  <table style="width: 80%; border-collapse: collapse;">
+    <tr>
+      <td style="width: 50%; text-align: right; padding-right: 20px;">
+        <h2 align = "center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.gif" alt="🏁" width="32" height="32">
+</picture>Typing Stats</h2>
+        <p align="right">
+          <img src="https://monkeytype-readme.com/generate-svg/Noel6161131110/cyberspace?pb=true" alt="My Monkeytype profile" width="400" height="400" />
+        </p>
+      </td>
+      <td style="width: 50%; border-left: 2px solid black; padding-left: 20px;">
+        <h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6b2/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6b2/512.gif" alt="🚲" width="32" height="32">
+</picture>GitHub Achievements</h2>
+        <p align="center" style="display: flex; justify-content: center;">
+          <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Noel6161131110&column=3&row=3&theme=discord" width="800" height="400"></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
-<br/>
-<p align = "center">
 
-<img src="https://monkeytype-readme.com/generate-svg/Noel6161131110/cyberspace?pb=true" alt="My Monkeytype profile" width="400" height="400" />
-
-</p>
-    
-
-<h2 align="center"> 🏆 GitHub Achievements:</h2>
-
-<br/>
-
-<p align="center">
-<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Noel6161131110&row=1&theme=discord"></a>
-</p>
 
 <h2 align="center">  Connect with me:</h2>
 <br/>
-<div align="center">
+<!-- <div align="center">
 <a href="https://app.daily.dev/noel_paul_george"><img src="https://api.daily.dev/devcards/2a35e3297fe9449398fde5b51437bcdd.png?r=fjq" width="400" alt="Noel Paul George's Dev Card"/></a>
-</div>
-<br/>
+</div> -->
 
 <p align="center">
  <a href="mailto:noel.paul.george.01052003@gmail.com"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
