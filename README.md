@@ -76,13 +76,38 @@ Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
   </a>
 </p>
 
-<h2 align="center"> My Contribution Stats <picture>
+<h2 align="center"> Contribution Analytics <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f638/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f638/512.gif" alt="😸" width="20" height="20">
 </picture></h2>
 <br />
 
-[![Noel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph)
+<!-- [![Noel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph) -->
+
+<div align="center">
+<div style="overflow: hidden;">
+  <a href="https://github.com/Noel6161131110">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noel6161131110&theme=tokyonight" alt="Noel6161131110's GitHub Contribution" style="width: 910px"/>
+  </a>
+</div>
+<div>
+  <a href="https://github.com/Noel6161131110">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noel6161131110&theme=tokyonight" alt="Noel6161131110's GitHub Contribution" style="width: 300px; height: 180px;"/>
+  </a>
+
+  <a href="https://github.com/Noel6161131110">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noel6161131110&theme=tokyonight" alt="Noel6161131110's GitHub Contribution"style="width: 300px; height: 180px;"/>
+  </a>
+  
+  <a href="https://github.com/Noel6161131110">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noel6161131110&theme=tokyonight" alt="Noel6161131110's GitHub Contribution" style="width: 300px; height: 180px;"/>
+  </a>
+  
+</div>
+</div>
+
+
+
 
 <br/>
     <h2 align="center"><picture>
