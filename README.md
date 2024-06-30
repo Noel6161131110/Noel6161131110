@@ -84,27 +84,31 @@ Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
 
 <!-- [![Noel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noel6161131110&theme=tokyo-night)](https://github.com/Noel6161131110/github-readme-activity-graph) -->
 
-<div align="center">
-  <div style="overflow: hidden; max-width: 910px;">
+<div style="max-width: 910px; margin: 0 auto; text-align: center;">
+  <div style="overflow: hidden;">
     <a href="https://github.com/Noel6161131110">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noel6161131110&theme=tokyonight" alt="Noel6161131110's GitHub Contribution" style="width: 100%;"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noel6161131110&theme=tokyonight" alt="Noel6161131110's GitHub Contribution" style="width: 100%; max-width: 910px;">
     </a>
   </div>
-  <div style="max-width: 910px; margin-top: 20px; display: flex; justify-content: space-between;">
-    <a href="https://github.com/Noel6161131110" style="flex: 1; margin-right: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noel6161131110&theme=tokyonight" alt="Noel6161131110's GitHub Contribution" style="width: 100%; height: 180px;"/>
-    </a>
-    <a href="https://github.com/Noel6161131110" style="flex: 1; margin-right: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noel6161131110&theme=tokyonight" alt="Noel6161131110's GitHub Contribution" style="width: 100%; height: 180px;"/>
-    </a>
-    <a href="https://github.com/Noel6161131110" style="flex: 1;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noel6161131110&theme=tokyonight" alt="Noel6161131110's GitHub Contribution" style="width: 100%; height: 180px;"/>
-    </a>
+
+  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <div style="flex-basis: calc(33.33% - 10px); max-width: calc(33.33% - 10px);">
+      <a href="https://github.com/Noel6161131110">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noel6161131110&theme=tokyonight" alt="Repos Per Language" style="width: 100%;">
+      </a>
+    </div>
+    <div style="flex-basis: calc(33.33% - 10px); max-width: calc(33.33% - 10px); margin-left: 20px;">
+      <a href="https://github.com/Noel6161131110">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noel6161131110&theme=tokyonight" alt="Most Commit Language" style="width: 100%;">
+      </a>
+    </div>
+    <div style="flex-basis: calc(33.33% - 10px); max-width: calc(33.33% - 10px); margin-left: 20px;">
+      <a href="https://github.com/Noel6161131110">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noel6161131110&theme=tokyonight" alt="Productive Time" style="width: 100%;">
+      </a>
+    </div>
   </div>
 </div>
-
-
-
 
 
 <br/>
