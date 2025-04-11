@@ -19,7 +19,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="16" height="16">
 </picture>
-Check out my <a href="https://noelpaulgeorge.me/">Portfolio website</a>.
+Check out my <a href="https://noelpaulgeorge.com/">Portfolio website</a>.
 <br />
 
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
