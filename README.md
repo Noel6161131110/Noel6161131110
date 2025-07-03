@@ -6,13 +6,6 @@
   </picture>
   , I'm Noel Paul George
 </h1>
-<br>
-
-
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="16" height="16">
-</picture>Student Ambassador of <strong><a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/5ca52ffc-9b1b-4afd-a5ba-d932e6eda8bf">Microsoft</a></strong>.
 
 <br />
 <picture>
@@ -28,34 +21,24 @@ Check out my <a href="https://noelpaulgeorge.com/">Portfolio website</a>.
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="➕" width="16" height="16">
-</picture>
-
-<p>
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="16" height="16">
-</picture> <b>Mastering Backend Alchemy</b>: Crafting resilient web and mobile applications with the precision of Django and Go, seamlessly merging technology and user experience into digital symphonies.
+</picture> 
 </p>
 
 <p>
-  <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="16" height="16">
-</picture> <b>Architect of Intelligent Systems</b>: Pioneering the frontier of Machine Learning, specializing in NLP and Computer Vision, sculpting data into insights that propel innovation and understanding.
+<em>Creating SaaS products for niche users using a wide range of technologies, blending functionality and scalability to serve real-world needs.</em>
 </p>
 
 <p>
-  <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="16" height="16">
-</picture> <b>Weaving Digital Landscapes</b>: Expertly navigating the complexities of web development, transforming intricate code into elegant solutions that define the digital landscape of tomorrow.
-
+<em>Delivering AI-powered solutions that provide real value to users through meaningful and practical features in NLP, Computer Vision, and beyond.</em>
 </p>
 
+<p>
+<em>Passionate about diving into the world of games, experimenting with game development and creative design during spare time.</em>
+</p>
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Noel6161131110&theme=github-green-purple)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Noel6161131110&theme=github-green-purple) -->
 
 
 
@@ -120,9 +103,9 @@ Check out my <a href="https://noelpaulgeorge.com/">Portfolio website</a>.
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20">
 </picture> My workspace</h2><br/>
     <p align='center'>
-  <br/>
+ 
 
-  <img src="https://img.shields.io/badge/NITRO-83B81A?style=for-the-badge&logo=Acer&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/NITRO-83B81A?style=for-the-badge&logo=Acer&logoColor=white"/>
      
   <img src="https://img.shields.io/badge/intel-core%20i5%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -130,7 +113,7 @@ Check out my <a href="https://noelpaulgeorge.com/">Portfolio website</a>.
 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
-  <br>
+  <br> -->
   
   <img src="https://img.shields.io/badge/Macbook Pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/M3 Pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
