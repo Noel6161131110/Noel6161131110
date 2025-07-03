@@ -17,24 +17,18 @@ Check out my <a href="https://noelpaulgeorge.com/">Portfolio website</a>.
 
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
 
-<p align="center" style="font-size:30px;"><b>Technical Synopsis</b>
+<!-- <p align="center" style="font-size:30px;"><b>Technical Synopsis</b>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="➕" width="16" height="16">
 </picture> 
-</p>
+</p> -->
 
-<p>
-<em>Creating SaaS products for niche users using a wide range of technologies, blending functionality and scalability to serve real-world needs.</em>
-</p>
+### *Creating SaaS products for niche users using a wide range of technologies, blending functionality and scalability to serve real-world needs.*
 
-<p>
-<em>Delivering AI-powered solutions that provide real value to users through meaningful and practical features in NLP, Computer Vision, and beyond.</em>
-</p>
+### *Delivering AI-powered solutions that provide real value to users through meaningful and practical features in NLP, Computer Vision, and beyond.*
 
-<p>
-<em>Passionate about diving into the world of games, experimenting with game development and creative design during spare time.</em>
-</p>
+### *Passionate about diving into the world of games, experimenting with game development and creative design during spare time.*
 
 <br>
 
