@@ -8,11 +8,13 @@
 </h1>
 
 <br />
-<picture>
+<!-- <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="16" height="16">
-</picture>
-Check out my <a href="https://noelpaulgeorge.com/">Portfolio website</a>.
+</picture> -->
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 <br />
 
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
@@ -43,6 +45,7 @@ Check out my <a href="https://noelpaulgeorge.com/">Portfolio website</a>.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noel6161131110&layout=compact&theme=github_dark)
 
 [![Noel's github stats](https://github-readme-stats.vercel.app/api?username=Noel6161131110&layout=compact&theme=github_dark)](https://github.com/Noel6161131110/github-readme-stats)
+
 
 <h2 align="center">Languages and Tools Inventory</h2>
 <br />
